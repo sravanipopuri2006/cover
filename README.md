@@ -89,6 +89,7 @@ Publish the website in the LocalHost.
 </html>
 ```
 ## CSS Code
+```
 .box{
     height: 1400px;
     width: 1000px;
